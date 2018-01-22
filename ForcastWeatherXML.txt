@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weatherdata>
+  <location>
+    <name>Shavertown</name>
+    <type>
+    </type>
+    <country>US</country>
+    <timezone>
+    </timezone>
+    <location altitude="0" latitude="41.3198" longitude="-75.938" geobase="geonames" geobaseid="5211730">
+    </location>
+  </location>
+  <credit>
+  </credit>
+  <meta>
+    <lastupdate>
+    </lastupdate>
+    <calctime>0.0141</calctime>
+    <nextupdate>
+    </nextupdate>
+  </meta>
+  <sun rise="2017-07-13T09:42:13" set="2017-07-14T00:36:30">
+  </sun>
+  <forecast>
+    <time from="2017-07-13T00:00:00" to="2017-07-13T03:00:00">
+      <symbol number="501" name="moderate rain" var="10n">
+      </symbol>
+      <precipitation unit="3h" value="3.66" type="rain">
+      </precipitation>
+      <windDirection deg="273" code="W" name="West">
+      </windDirection>
+      <windSpeed mps="2.39" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="69.06" min="68.91" max="69.06">
+      </temperature>
+      <pressure unit="hPa" value="982.73">
+      </pressure>
+      <humidity value="97" unit="%">
+      </humidity>
+      <clouds value="overcast clouds" all="92" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-13T03:00:00" to="2017-07-13T06:00:00">
+      <symbol number="500" name="light rain" var="10n">
+      </symbol>
+      <precipitation unit="3h" value="0.335" type="rain">
+      </precipitation>
+      <windDirection deg="151.5" code="SSE" name="South-southeast">
+      </windDirection>
+      <windSpeed mps="1.97" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="68.45" min="68.34" max="68.45">
+      </temperature>
+      <pressure unit="hPa" value="981.83">
+      </pressure>
+      <humidity value="96" unit="%">
+      </humidity>
+      <clouds value="scattered clouds" all="48" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-13T06:00:00" to="2017-07-13T09:00:00">
+      <symbol number="802" name="scattered clouds" var="03n">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="228.002" code="SW" name="Southwest">
+      </windDirection>
+      <windSpeed mps="4.76" name="Gentle Breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="69.26" min="69.21" max="69.26">
+      </temperature>
+      <pressure unit="hPa" value="981.16">
+      </pressure>
+      <humidity value="90" unit="%">
+      </humidity>
+      <clouds value="scattered clouds" all="36" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-13T09:00:00" to="2017-07-13T12:00:00">
+      <symbol number="802" name="scattered clouds" var="03d">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="244.5" code="WSW" name="West-southwest">
+      </windDirection>
+      <windSpeed mps="4.5" name="Gentle Breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="72.7" min="72.7" max="72.7">
+      </temperature>
+      <pressure unit="hPa" value="981.85">
+      </pressure>
+      <humidity value="87" unit="%">
+      </humidity>
+      <clouds value="scattered clouds" all="36" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-13T12:00:00" to="2017-07-13T15:00:00">
+      <symbol number="803" name="broken clouds" var="04d">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="247" code="WSW" name="West-southwest">
+      </windDirection>
+      <windSpeed mps="4.94" name="Gentle Breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="77.99" min="77.99" max="77.99">
+      </temperature>
+      <pressure unit="hPa" value="981.26">
+      </pressure>
+      <humidity value="82" unit="%">
+      </humidity>
+      <clouds value="broken clouds" all="56" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-13T15:00:00" to="2017-07-13T18:00:00">
+      <symbol number="803" name="broken clouds" var="04d">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="247" code="WSW" name="West-southwest">
+      </windDirection>
+      <windSpeed mps="6.06" name="Moderate breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="81.16" min="81.16" max="81.16">
+      </temperature>
+      <pressure unit="hPa" value="980.58">
+      </pressure>
+      <humidity value="76" unit="%">
+      </humidity>
+      <clouds value="broken clouds" all="76" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-13T18:00:00" to="2017-07-13T21:00:00">
+      <symbol number="500" name="light rain" var="10d">
+      </symbol>
+      <precipitation unit="3h" value="2.385" type="rain">
+      </precipitation>
+      <windDirection deg="257.502" code="WSW" name="West-southwest">
+      </windDirection>
+      <windSpeed mps="5.53" name="Moderate breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="79.17" min="79.17" max="79.17">
+      </temperature>
+      <pressure unit="hPa" value="979.62">
+      </pressure>
+      <humidity value="80" unit="%">
+      </humidity>
+      <clouds value="broken clouds" all="68" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-13T21:00:00" to="2017-07-14T00:00:00">
+      <symbol number="501" name="moderate rain" var="10n">
+      </symbol>
+      <precipitation unit="3h" value="7.77" type="rain">
+      </precipitation>
+      <windDirection deg="326.501" code="NNW" name="North-northeast">
+      </windDirection>
+      <windSpeed mps="2.48" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="71.18" min="71.18" max="71.18">
+      </temperature>
+      <pressure unit="hPa" value="979.96">
+      </pressure>
+      <humidity value="97" unit="%">
+      </humidity>
+      <clouds value="overcast clouds" all="92" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-14T00:00:00" to="2017-07-14T03:00:00">
+      <symbol number="502" name="heavy intensity rain" var="10n">
+      </symbol>
+      <precipitation unit="3h" value="17.975" type="rain">
+      </precipitation>
+      <windDirection deg="98.5009" code="E" name="East">
+      </windDirection>
+      <windSpeed mps="1.7" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="67.53" min="67.53" max="67.53">
+      </temperature>
+      <pressure unit="hPa" value="980.46">
+      </pressure>
+      <humidity value="98" unit="%">
+      </humidity>
+      <clouds value="overcast clouds" all="92" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-14T03:00:00" to="2017-07-14T06:00:00">
+      <symbol number="501" name="moderate rain" var="10n">
+      </symbol>
+      <precipitation unit="3h" value="6.68" type="rain">
+      </precipitation>
+      <windDirection deg="200" code="SSW" name="South-southwest">
+      </windDirection>
+      <windSpeed mps="1.39" name="Calm">
+      </windSpeed>
+      <temperature unit="imperial" value="67.66" min="67.66" max="67.66">
+      </temperature>
+      <pressure unit="hPa" value="979.6">
+      </pressure>
+      <humidity value="99" unit="%">
+      </humidity>
+      <clouds value="overcast clouds" all="92" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-14T06:00:00" to="2017-07-14T09:00:00">
+      <symbol number="500" name="light rain" var="10n">
+      </symbol>
+      <precipitation unit="3h" value="1.655" type="rain">
+      </precipitation>
+      <windDirection deg="240.001" code="WSW" name="West-southwest">
+      </windDirection>
+      <windSpeed mps="1.48" name="Calm">
+      </windSpeed>
+      <temperature unit="imperial" value="67.85" min="67.85" max="67.85">
+      </temperature>
+      <pressure unit="hPa" value="979.5">
+      </pressure>
+      <humidity value="99" unit="%">
+      </humidity>
+      <clouds value="overcast clouds" all="92" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-14T09:00:00" to="2017-07-14T12:00:00">
+      <symbol number="500" name="light rain" var="10d">
+      </symbol>
+      <precipitation unit="3h" value="0.65" type="rain">
+      </precipitation>
+      <windDirection deg="317.002" code="NW" name="Northwest">
+      </windDirection>
+      <windSpeed mps="2.59" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="68.91" min="68.91" max="68.91">
+      </temperature>
+      <pressure unit="hPa" value="980.17">
+      </pressure>
+      <humidity value="98" unit="%">
+      </humidity>
+      <clouds value="broken clouds" all="76" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-14T12:00:00" to="2017-07-14T15:00:00">
+      <symbol number="500" name="light rain" var="10d">
+      </symbol>
+      <precipitation unit="3h" value="0.050000000000004" type="rain">
+      </precipitation>
+      <windDirection deg="345.002" code="NNW" name="North-northeast">
+      </windDirection>
+      <windSpeed mps="2.26" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="72.42" min="72.42" max="72.42">
+      </temperature>
+      <pressure unit="hPa" value="980.28">
+      </pressure>
+      <humidity value="90" unit="%">
+      </humidity>
+      <clouds value="overcast clouds" all="88" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-14T15:00:00" to="2017-07-14T18:00:00">
+      <symbol number="500" name="light rain" var="10d">
+      </symbol>
+      <precipitation unit="3h" value="0.039999999999999" type="rain">
+      </precipitation>
+      <windDirection deg="212.003" code="SSW" name="South-southwest">
+      </windDirection>
+      <windSpeed mps="2.93" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="74.46" min="74.46" max="74.46">
+      </temperature>
+      <pressure unit="hPa" value="979.9">
+      </pressure>
+      <humidity value="87" unit="%">
+      </humidity>
+      <clouds value="overcast clouds" all="92" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-14T18:00:00" to="2017-07-14T21:00:00">
+      <symbol number="500" name="light rain" var="10d">
+      </symbol>
+      <precipitation unit="3h" value="0.9" type="rain">
+      </precipitation>
+      <windDirection deg="195" code="SSW" name="South-southwest">
+      </windDirection>
+      <windSpeed mps="2.01" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="71.89" min="71.89" max="71.89">
+      </temperature>
+      <pressure unit="hPa" value="979">
+      </pressure>
+      <humidity value="91" unit="%">
+      </humidity>
+      <clouds value="overcast clouds" all="92" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-14T21:00:00" to="2017-07-15T00:00:00">
+      <symbol number="501" name="moderate rain" var="10n">
+      </symbol>
+      <precipitation unit="3h" value="3.4" type="rain">
+      </precipitation>
+      <windDirection deg="139.002" code="SE" name="SouthEast">
+      </windDirection>
+      <windSpeed mps="2.82" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="68.04" min="68.04" max="68.04">
+      </temperature>
+      <pressure unit="hPa" value="978.55">
+      </pressure>
+      <humidity value="98" unit="%">
+      </humidity>
+      <clouds value="overcast clouds" all="88" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-15T00:00:00" to="2017-07-15T03:00:00">
+      <symbol number="500" name="light rain" var="10n">
+      </symbol>
+      <precipitation unit="3h" value="0.63" type="rain">
+      </precipitation>
+      <windDirection deg="157.501" code="SSE" name="South-southeast">
+      </windDirection>
+      <windSpeed mps="2.62" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="67.19" min="67.19" max="67.19">
+      </temperature>
+      <pressure unit="hPa" value="978.57">
+      </pressure>
+      <humidity value="100" unit="%">
+      </humidity>
+      <clouds value="overcast clouds" all="88" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-15T03:00:00" to="2017-07-15T06:00:00">
+      <symbol number="500" name="light rain" var="10n">
+      </symbol>
+      <precipitation unit="3h" value="2.51" type="rain">
+      </precipitation>
+      <windDirection deg="309.001" code="NW" name="Northwest">
+      </windDirection>
+      <windSpeed mps="0.94" name="Calm">
+      </windSpeed>
+      <temperature unit="imperial" value="66.49" min="66.49" max="66.49">
+      </temperature>
+      <pressure unit="hPa" value="977.58">
+      </pressure>
+      <humidity value="98" unit="%">
+      </humidity>
+      <clouds value="overcast clouds" all="92" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-15T06:00:00" to="2017-07-15T09:00:00">
+      <symbol number="500" name="light rain" var="10n">
+      </symbol>
+      <precipitation unit="3h" value="2.98" type="rain">
+      </precipitation>
+      <windDirection deg="351.5" code="" name="">
+      </windDirection>
+      <windSpeed mps="2.37" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="64.93" min="64.93" max="64.93">
+      </temperature>
+      <pressure unit="hPa" value="977.45">
+      </pressure>
+      <humidity value="96" unit="%">
+      </humidity>
+      <clouds value="few clouds" all="24" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-15T09:00:00" to="2017-07-15T12:00:00">
+      <symbol number="500" name="light rain" var="10d">
+      </symbol>
+      <precipitation unit="3h" value="0.019999999999996" type="rain">
+      </precipitation>
+      <windDirection deg="301.506" code="WNW" name="West-northwest">
+      </windDirection>
+      <windSpeed mps="3.04" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="66.57" min="66.57" max="66.57">
+      </temperature>
+      <pressure unit="hPa" value="978.25">
+      </pressure>
+      <humidity value="93" unit="%">
+      </humidity>
+      <clouds value="few clouds" all="20" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-15T12:00:00" to="2017-07-15T15:00:00">
+      <symbol number="802" name="scattered clouds" var="03d">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="318.501" code="NW" name="Northwest">
+      </windDirection>
+      <windSpeed mps="3.38" name="">
+      </windSpeed>
+      <temperature unit="imperial" value="71.96" min="71.96" max="71.96">
+      </temperature>
+      <pressure unit="hPa" value="978.17">
+      </pressure>
+      <humidity value="80" unit="%">
+      </humidity>
+      <clouds value="scattered clouds" all="36" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-15T15:00:00" to="2017-07-15T18:00:00">
+      <symbol number="802" name="scattered clouds" var="03d">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="315.501" code="NW" name="Northwest">
+      </windDirection>
+      <windSpeed mps="3.94" name="Gentle Breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="74.69" min="74.69" max="74.69">
+      </temperature>
+      <pressure unit="hPa" value="978.01">
+      </pressure>
+      <humidity value="73" unit="%">
+      </humidity>
+      <clouds value="scattered clouds" all="44" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-15T18:00:00" to="2017-07-15T21:00:00">
+      <symbol number="802" name="scattered clouds" var="03d">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="331.506" code="NNW" name="North-northeast">
+      </windDirection>
+      <windSpeed mps="4.38" name="Gentle Breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="74.04" min="74.04" max="74.04">
+      </temperature>
+      <pressure unit="hPa" value="977.81">
+      </pressure>
+      <humidity value="74" unit="%">
+      </humidity>
+      <clouds value="scattered clouds" all="48" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-15T21:00:00" to="2017-07-16T00:00:00">
+      <symbol number="803" name="broken clouds" var="04n">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="341.506" code="NNW" name="North-northeast">
+      </windDirection>
+      <windSpeed mps="3.94" name="Gentle Breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="70.73" min="70.73" max="70.73">
+      </temperature>
+      <pressure unit="hPa" value="978.34">
+      </pressure>
+      <humidity value="80" unit="%">
+      </humidity>
+      <clouds value="broken clouds" all="64" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-16T00:00:00" to="2017-07-16T03:00:00">
+      <symbol number="500" name="light rain" var="10n">
+      </symbol>
+      <precipitation unit="3h" value="0.010000000000005" type="rain">
+      </precipitation>
+      <windDirection deg="341.5" code="NNW" name="North-northeast">
+      </windDirection>
+      <windSpeed mps="3.24" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="66.86" min="66.86" max="66.86">
+      </temperature>
+      <pressure unit="hPa" value="979.61">
+      </pressure>
+      <humidity value="87" unit="%">
+      </humidity>
+      <clouds value="few clouds" all="20" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-16T03:00:00" to="2017-07-16T06:00:00">
+      <symbol number="500" name="light rain" var="10n">
+      </symbol>
+      <precipitation unit="3h" value="0.029999999999994" type="rain">
+      </precipitation>
+      <windDirection deg="342.003" code="NNW" name="North-northeast">
+      </windDirection>
+      <windSpeed mps="2.73" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="63.32" min="63.32" max="63.32">
+      </temperature>
+      <pressure unit="hPa" value="979.34">
+      </pressure>
+      <humidity value="96" unit="%">
+      </humidity>
+      <clouds value="clear sky" all="0" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-16T06:00:00" to="2017-07-16T09:00:00">
+      <symbol number="801" name="few clouds" var="02n">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="328.002" code="NNW" name="North-northeast">
+      </windDirection>
+      <windSpeed mps="2.15" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="60.22" min="60.22" max="60.22">
+      </temperature>
+      <pressure unit="hPa" value="979.67">
+      </pressure>
+      <humidity value="96" unit="%">
+      </humidity>
+      <clouds value="few clouds" all="24" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-16T09:00:00" to="2017-07-16T12:00:00">
+      <symbol number="500" name="light rain" var="10d">
+      </symbol>
+      <precipitation unit="3h" value="0.020000000000003" type="rain">
+      </precipitation>
+      <windDirection deg="335.001" code="NNW" name="North-northeast">
+      </windDirection>
+      <windSpeed mps="2.98" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="65.83" min="65.83" max="65.83">
+      </temperature>
+      <pressure unit="hPa" value="980.67">
+      </pressure>
+      <humidity value="88" unit="%">
+      </humidity>
+      <clouds value="scattered clouds" all="44" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-16T12:00:00" to="2017-07-16T15:00:00">
+      <symbol number="801" name="few clouds" var="02d">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="8.0033" code="N" name="North">
+      </windDirection>
+      <windSpeed mps="3.24" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="71.67" min="71.67" max="71.67">
+      </temperature>
+      <pressure unit="hPa" value="980.82">
+      </pressure>
+      <humidity value="76" unit="%">
+      </humidity>
+      <clouds value="few clouds" all="20" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-16T15:00:00" to="2017-07-16T18:00:00">
+      <symbol number="801" name="few clouds" var="02d">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="315" code="NW" name="Northwest">
+      </windDirection>
+      <windSpeed mps="2.93" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="74.87" min="74.87" max="74.87">
+      </temperature>
+      <pressure unit="hPa" value="980.14">
+      </pressure>
+      <humidity value="70" unit="%">
+      </humidity>
+      <clouds value="few clouds" all="12" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-16T18:00:00" to="2017-07-16T21:00:00">
+      <symbol number="800" name="clear sky" var="02d">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="198.002" code="SSW" name="South-southwest">
+      </windDirection>
+      <windSpeed mps="3.09" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="76.64" min="76.64" max="76.64">
+      </temperature>
+      <pressure unit="hPa" value="979.46">
+      </pressure>
+      <humidity value="65" unit="%">
+      </humidity>
+      <clouds value="clear sky" all="8" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-16T21:00:00" to="2017-07-17T00:00:00">
+      <symbol number="800" name="clear sky" var="02n">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="144.502" code="SE" name="SouthEast">
+      </windDirection>
+      <windSpeed mps="2.15" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="72.6" min="72.6" max="72.6">
+      </temperature>
+      <pressure unit="hPa" value="979.43">
+      </pressure>
+      <humidity value="82" unit="%">
+      </humidity>
+      <clouds value="clear sky" all="8" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-17T00:00:00" to="2017-07-17T03:00:00">
+      <symbol number="800" name="clear sky" var="01n">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="130.501" code="SE" name="SouthEast">
+      </windDirection>
+      <windSpeed mps="2.62" name="Light breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="66.38" min="66.38" max="66.38">
+      </temperature>
+      <pressure unit="hPa" value="980.27">
+      </pressure>
+      <humidity value="88" unit="%">
+      </humidity>
+      <clouds value="clear sky" all="0" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-17T03:00:00" to="2017-07-17T06:00:00">
+      <symbol number="801" name="few clouds" var="02n">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="155.506" code="SSE" name="South-southeast">
+      </windDirection>
+      <windSpeed mps="3.36" name="">
+      </windSpeed>
+      <temperature unit="imperial" value="64.79" min="64.79" max="64.79">
+      </temperature>
+      <pressure unit="hPa" value="980.14">
+      </pressure>
+      <humidity value="89" unit="%">
+      </humidity>
+      <clouds value="few clouds" all="20" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-17T06:00:00" to="2017-07-17T09:00:00">
+      <symbol number="803" name="broken clouds" var="04n">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="148.507" code="SSE" name="South-southeast">
+      </windDirection>
+      <windSpeed mps="3.4" name="Gentle Breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="64.93" min="64.93" max="64.93">
+      </temperature>
+      <pressure unit="hPa" value="979.81">
+      </pressure>
+      <humidity value="90" unit="%">
+      </humidity>
+      <clouds value="broken clouds" all="56" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-17T09:00:00" to="2017-07-17T12:00:00">
+      <symbol number="802" name="scattered clouds" var="03d">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="155.502" code="SSE" name="South-southeast">
+      </windDirection>
+      <windSpeed mps="3.62" name="Gentle Breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="68.87" min="68.87" max="68.87">
+      </temperature>
+      <pressure unit="hPa" value="980.72">
+      </pressure>
+      <humidity value="88" unit="%">
+      </humidity>
+      <clouds value="scattered clouds" all="36" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-17T12:00:00" to="2017-07-17T15:00:00">
+      <symbol number="803" name="broken clouds" var="04d">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="164.508" code="SSE" name="South-southeast">
+      </windDirection>
+      <windSpeed mps="5.75" name="Moderate breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="74.16" min="74.16" max="74.16">
+      </temperature>
+      <pressure unit="hPa" value="980.97">
+      </pressure>
+      <humidity value="79" unit="%">
+      </humidity>
+      <clouds value="broken clouds" all="76" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-17T15:00:00" to="2017-07-17T18:00:00">
+      <symbol number="803" name="broken clouds" var="04d">
+      </symbol>
+      <precipitation>
+      </precipitation>
+      <windDirection deg="161.501" code="SSE" name="South-southeast">
+      </windDirection>
+      <windSpeed mps="6.38" name="Moderate breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="77.59" min="77.59" max="77.59">
+      </temperature>
+      <pressure unit="hPa" value="980.07">
+      </pressure>
+      <humidity value="71" unit="%">
+      </humidity>
+      <clouds value="broken clouds" all="80" unit="%">
+      </clouds>
+    </time>
+    <time from="2017-07-17T18:00:00" to="2017-07-17T21:00:00">
+      <symbol number="500" name="light rain" var="10d">
+      </symbol>
+      <precipitation unit="3h" value="2.46" type="rain">
+      </precipitation>
+      <windDirection deg="160.508" code="SSE" name="South-southeast">
+      </windDirection>
+      <windSpeed mps="5.17" name="Gentle Breeze">
+      </windSpeed>
+      <temperature unit="imperial" value="72.17" min="72.17" max="72.17">
+      </temperature>
+      <pressure unit="hPa" value="980.02">
+      </pressure>
+      <humidity value="92" unit="%">
+      </humidity>
+      <clouds value="broken clouds" all="56" unit="%">
+      </clouds>
+    </time>
+  </forecast>
+</weatherdata>
+
+Day 1: 0-7
+Day 2: 8-16
+Day 3: 17-25
+Day 4: 26-34
+Day 5: 35-43

@@ -1,0 +1,90 @@
+C:/Users/jafio/Google Drive/Secondary Drive_Backburner/Windows Projects/Marvin OS/Marvin OS/bin/Debug/Marvin OS.exe.config
+C:/Users/jafio/Google Drive/Secondary Drive_Backburner/Windows Projects/Marvin OS/Marvin OS/bin/Debug/Marvin OS.exe
+C:/Users/jafio/Google Drive/Secondary Drive_Backburner/Windows Projects/Marvin OS/Marvin OS/bin/Debug/Marvin OS.pdb
+C:/Users/jafio/Google Drive/Secondary Drive_Backburner/Windows Projects/Marvin OS/Marvin OS/obj/Debug/Marvin OS.csprojResolveAssemblyReference.cache
+C:/Users/jafio/Google Drive/Secondary Drive_Backburner/Windows Projects/Marvin OS/Marvin OS/obj/Debug/Marvin_OS.Form1.resources
+C:/Users/jafio/Google Drive/Secondary Drive_Backburner/Windows Projects/Marvin OS/Marvin OS/obj/Debug/Marvin_OS.Properties.Resources.resources
+C:/Users/jafio/Google Drive/Secondary Drive_Backburner/Windows Projects/Marvin OS/Marvin OS/obj/Debug/Marvin OS.csproj.GenerateResource.Cache
+C:/Users/jafio/Google Drive/Secondary Drive_Backburner/Windows Projects/Marvin OS/Marvin OS/obj/Debug/Marvin OS.exe
+C:/Users/jafio/Google Drive/Secondary Drive_Backburner/Windows Projects/Marvin OS/Marvin OS/obj/Debug/Marvin OS.pdb
+/Users/josephfioti/Google Drive/Marvin OS/Marvin OS/obj/Debug/Marvin OS.csprojResolveAssemblyReference.cache
+/Users/josephfioti/Google Drive/Marvin OS/Marvin OS/obj/Debug/Marvin OS.csproj.Marvin OS.exe.config
+/Users/josephfioti/Google Drive/Marvin OS/Marvin OS/obj/Debug/Marvin_OS.Form1.resources
+/Users/josephfioti/Google Drive/Marvin OS/Marvin OS/obj/Debug/Marvin_OS.Properties.Resources.resources
+/Users/josephfioti/Google Drive/Marvin OS/Marvin OS/obj/Debug/Marvin OS.csproj.GenerateResource.Cache
+/Users/josephfioti/Google Drive/Marvin OS/Marvin OS/obj/Debug/Marvin OS.csproj.CoreCompileInputs.cache
+/Users/josephfioti/Google Drive/Marvin OS/Marvin OS/obj/Debug/Marvin OS.exe
+/Users/josephfioti/Google Drive/Marvin OS/Marvin OS/obj/Debug/Marvin OS.pdb
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Marvin OS.exe.config
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Marvin OS.exe.manifest
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Marvin OS.application
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Marvin OS.exe
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Marvin OS.pdb
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Bond.Attributes.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Bond.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Bond.IO.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Bond.JSON.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Bond.Reflection.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Google.Apis.Core.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Microsoft.Bing.Messaging.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Microsoft.Bing.Speech.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\NAudio.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Bond.pdb
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Bond.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Bond.Attributes.pdb
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Bond.Attributes.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Bond.IO.pdb
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Bond.IO.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Bond.JSON.pdb
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Bond.JSON.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Bond.Reflection.pdb
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Bond.Reflection.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Google.Apis.Core.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Microsoft.Bing.Speech.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\NAudio.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Debug\Marvin_OS.Form1.resources
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Debug\Marvin_OS.Properties.Resources.resources
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Debug\Marvin OS.csproj.GenerateResource.Cache
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Debug\Marvin OS.exe.manifest
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Debug\Marvin OS.application
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Debug\Marvin OS.exe
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Debug\Marvin OS.pdb
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Debug\Marvin OS.csprojResolveAssemblyReference.cache
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\SimpleFeedReader.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\SimpleFeedReader.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Debug\Marvin_OS.Stopwatch.resources
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll

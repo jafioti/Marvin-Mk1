@@ -1,0 +1,67 @@
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Marvin OS.exe.config
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Marvin OS.exe.manifest
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Marvin OS.application
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Marvin OS.exe
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Marvin OS.pdb
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Bond.Attributes.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Bond.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Bond.IO.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Bond.JSON.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Bond.Reflection.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Google.Apis.Core.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Microsoft.Bing.Messaging.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Microsoft.Bing.Speech.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Microsoft.VisualStudio.Threading.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Microsoft.VisualStudio.Validation.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\NAudio.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Newtonsoft.Json.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Bond.pdb
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Bond.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Bond.Attributes.pdb
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Bond.Attributes.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Bond.IO.pdb
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Bond.IO.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Bond.JSON.pdb
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Bond.JSON.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Bond.Reflection.pdb
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Bond.Reflection.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Google.Apis.Core.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Microsoft.Bing.Speech.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Microsoft.VisualStudio.Threading.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Microsoft.VisualStudio.Validation.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\NAudio.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\Newtonsoft.Json.xml
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\bin\Release\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Release\Marvin OS.csprojResolveAssemblyReference.cache
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Release\Marvin_OS.Form1.resources
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Release\Marvin_OS.Properties.Resources.resources
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Release\Marvin OS.csproj.GenerateResource.Cache
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Release\Marvin OS.exe.manifest
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Release\Marvin OS.application
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Release\Marvin OS.exe
+C:\Users\jafio\Google Drive\Marvin OS\Marvin OS\obj\Release\Marvin OS.pdb
